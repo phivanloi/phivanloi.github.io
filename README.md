@@ -15,9 +15,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=phivanloi&bg_color=0a0f0d&color=c9d1d9&line=00ff7b&point=00ff7b&area=true&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phivanloi&show_icons=true&theme=radical&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phivanloi&layout=compact&theme=radical&hide_border=true" />
-</p>
